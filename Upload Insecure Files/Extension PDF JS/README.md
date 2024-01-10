@@ -2,7 +2,7 @@
 
 PDF may contain JavaScript code. 
 This script allow us to generate a PDF file which helps us to check if that code is executed when the file is opened.
-Possible targets are client applications trying to open the file or sererside backends which are parsing the PDF file.
+Possible targets are client applications trying to open the file or serverside backends which are parsing the PDF file.
 
 ## HowTo
 
